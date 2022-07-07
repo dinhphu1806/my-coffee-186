@@ -120,7 +120,7 @@ font-weight: 600; letter-spacing: .5px; width: 285px;}
 }
 @media screen and (max-width: 670px) {
 	.container {width: 400px;}
-	.banner {height: 80vh;margin-top: -117px;background-size: cover;}
+	.banner {height: 100vh;margin-top: -117px;background-size: cover;}
 	.logo{font-size: 20px;}
 	.ban-content h1{font-size: 25px;}
 	.ban-content{top: 48%;left: 35px;}
